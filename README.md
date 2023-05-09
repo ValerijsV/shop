@@ -1,0 +1,2 @@
+# shop
+nodarbiba rakstitais kods
